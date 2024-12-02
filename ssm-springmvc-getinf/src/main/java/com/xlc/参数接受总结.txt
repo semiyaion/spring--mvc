@@ -1,0 +1,24 @@
+
+
+1.路径设置
+@RequestMapping(value=“地址”,method="请求方式")
+ 可加载类和方法中，放在类中是表示该类下的所有方法的父地址都为类上的值
+
+ 2.@GetMappring/@PostMapping  只能使用在方法上，等价于@RequestMapping（value=“xxx” method=“Get/Post...”）
+
+ 3.接受参数
+ 1）param直接接受   类型  形参名  =  请求参数名
+ 2）注解指定  类型 （@RequestParam(name="请求的参数名"，requored=true(必须传值否则报错),defaltValue="默认值") name）
+ 3)一名多值  类型 （@RequestParam List key）
+ 4）实体接收  类型 (实体  对象） 对象的属性名=请求的参数名
+ 5）路径参数
+            设置动态路径与标识  /{key}/{{key}
+            接受路径 handler(@PathVariable 类型 形参名)
+6）json      数据接受   类型(@RequestBody  实体类 对象）
+                准备工作：1.导入jackson依赖   2.@EnableWebMvc
+7）cookie        类型（@Request（”cookie的名字“）
+8）原生api                         HttpServletResponse response,
+                                 HttpServletRequest request,
+                                 HttpSession session)
+9）共享域的获取            原生api即可
+                            HttpServletRequest request, HttpServletResponse response, HttpSession session
