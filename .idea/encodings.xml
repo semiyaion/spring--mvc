@@ -3,10 +3,16 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-exception/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc-getinf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc-getinf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc-quick/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc-quick/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-restful-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-restful-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-springmvc-return/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ssm-springmvc/src/main/resources" charset="UTF-8" />
   </component>

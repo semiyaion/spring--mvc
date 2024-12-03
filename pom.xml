@@ -10,6 +10,9 @@
     <modules>
         <module>ssm-springmvc-quick</module>
         <module>ssm-springmvc-getinf</module>
+        <module>ssm-springmvc-return</module>
+        <module>ssm-springmvc-restful-test</module>
+        <module>ssm-springmvc-exception</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -46,6 +49,21 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>2.15.0</version>
+        </dependency>
+        <dependency>
+            <groupId>jakarta.servlet.jsp.jstl</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate.validator</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>8.0.0.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator-annotation-processor</artifactId>
+            <version>8.0.0.Final</version>
         </dependency>
     </dependencies>
 

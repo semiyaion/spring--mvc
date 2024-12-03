@@ -28,6 +28,14 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.15.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.15.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.0" />
+          <element id="library" level="project" name="Maven: jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.servlet:jakarta.servlet-api:6.0.0" />
+          <element id="library" level="project" name="Maven: jakarta.el:jakarta.el-api:5.0.0" />
+          <element id="library" level="project" name="Maven: org.hibernate.validator:hibernate-validator:8.0.0.Final" />
+          <element id="library" level="project" name="Maven: jakarta.validation:jakarta.validation-api:3.0.2" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.4.1.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.5.1" />
+          <element id="library" level="project" name="Maven: org.hibernate.validator:hibernate-validator-annotation-processor:8.0.0.Final" />
         </element>
       </element>
       <element id="directory" name="META-INF">

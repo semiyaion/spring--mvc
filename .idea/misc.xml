@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ssm-springmvc-exception" />
     <file type="web" url="file://$PROJECT_DIR$/ssm-springmvc-getinf" />
     <file type="web" url="file://$PROJECT_DIR$/ssm-springmvc-quick" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm-springmvc-return" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
